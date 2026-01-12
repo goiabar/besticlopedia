@@ -1,8 +1,9 @@
-# Besticlopedia
+# 📘 Besticlopedia
 
-**Besticlopedia** is a study project to catalog and display animals directly in the terminal, built with **Go (Golang)**.
-This project was born from a passion for **biology** and **Go programming**. The goal is to create a simple application that allows you to:
+**Besticlopedia** is an open-source project written in **Go (Golang)** that combines programming and biology into a terminal-based animal encyclopedia.
 
-- List animals with basic information
-- Show details of each species in the terminal
-- Learn good Go programming practices
+This project was created as a way to learn Golang while exploring my passion for **biology**. Besticlopedia allows users to **catalog animals**, organize them into **categories**, and display important information about each species in a clear and structured way.
+
+All interaction happens directly in the **terminal**, providing a simple, fast, and focused CLI experience — ideal for developers who enjoy command-line tools or want to practice data organization, structs, and general application design in Go.
+
+Besticlopedia is designed to be **flexible and extensible**. Anyone can use it to catalog their own animals or adapt it to organize other types of living beings or collections.
